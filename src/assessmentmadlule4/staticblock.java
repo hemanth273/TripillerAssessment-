@@ -1,5 +1,4 @@
 package AssesmentMadule1;
-
  class StaticBlockDemo {
 
     // static block
