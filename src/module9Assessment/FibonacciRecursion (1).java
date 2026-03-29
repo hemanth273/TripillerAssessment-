@@ -1,6 +1,6 @@
 package Module9;
 
-public class FibonacciRecursion {
+ class FibonacciRecursion {
     static int fibonacci(int n) {
         if (n <= 1)
             return n;
